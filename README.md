@@ -13,9 +13,9 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo:
 
-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jg-Nascimento/jg-nascimento)](link_do_seu_perfil_no_github)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-nascimento-a59a95a1/)](link_do_seu_perfil_no_linkedin)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sj.luiznasciement@gmail.com)](mailto:seu_email) 
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jg-Nascimento/)](https://github.com/Jg-Nascimento/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-nascimento-a59a95a1/)](https://www.linkedin.com/in/jorge-nascimento-a59a95a1/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.luiznasciement@gmail.com)](mailto:j.luiznasciement@gmail.com) 
 
 
 
