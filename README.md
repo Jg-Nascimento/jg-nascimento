@@ -6,21 +6,17 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jg-Nascimento/)](https://github.com/Jg-Nascimento/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-nascimento-a59a95a1/)](https://www.linkedin.com/in/jorge-nascimento-a59a95a1/)
 
-<h1 align="center">Olá Pessoal, sejam bem vindos ao meu Perfil... 👋 </h1>
+<h1 align="center">Olá Pessoal, sejam bem vindos ao meu Perfil... 👋 
 
-<p><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.pyC-IABkQX3ZU_TO-KUO_wHaDw%26pid%3DApi&f=1" style="max-width:100%;"></a></p>
+<p>
+ <a>
+  <img  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.pyC-IABkQX3ZU_TO-KUO_wHaDw%26pid%3DApi&f=1" style="max-width:100%;" align="center">
+ </a>
+ </p>
+</h1>
 
- 
-<p>Sou formado em Gestão de Tecnologia da Informação, e atualmente venho estudando a área de IA, Machine-Learning, Data Science, vendo que essas são as atuais tendências do futuro...</p>
-<br>
-<br> 
-<br> 
-<br> 
-<br> 
-<br>
-<br> 
-<br> 
-<br>
+
+<p>Sou formado em Gestão de Tecnologia da Informação, e atualmente venho estudando a área de IA,<br> Machine-Learning, Data Science, vendo que essas são as atuais tendências...</p>
 
 - 🌱 No momento, estou aprendendo: 
 <ul>
