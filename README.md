@@ -21,7 +21,7 @@
 - 🌱 No momento, estou aprendendo: 
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/-CHATBOT-brightgreen" /> <img src="https://img.shields.io/badge/-IA-brightgreen" /> <img src="https://img.shields.io/badge/-FLASK-brightgreen" /> <img src="https://img.shields.io/badge/-POEWRBI-brightgreen" /> <img src="https://img.shields.io/badge/-DATA SCIENCE-brightgreen" /> <img src="https://img.shields.io/badge/-DATA ANALYSIS-brightgreen" />
+    <img src="https://img.shields.io/badge/-CHATBOT-brightgreen" /> <img src="https://img.shields.io/badge/-IA-brightgreen" /> <img src="https://img.shields.io/badge/-FLASK-brightgreen" /> <img src="https://img.shields.io/badge/-POWERBI-brightgreen" /> <img src="https://img.shields.io/badge/-DATA SCIENCE-brightgreen" /> <img src="https://img.shields.io/badge/-DATA ANALYSIS-brightgreen" />
   </li>
 </ul>  
 <ul>
